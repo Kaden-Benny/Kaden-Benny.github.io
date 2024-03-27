@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Net Art</title>
+</head>
+<body>
+
+<h1>Net Art</h1>
+
+<a href="netart" >
+<img src="netart.png" alt="net art"
+width="600">
+</a>
+
+</body>
+</html>
